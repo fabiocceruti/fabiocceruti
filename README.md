@@ -36,6 +36,6 @@ Com isso, tenho focado na área de ciência de dados e espero contribuir com a c
 [<img align="left" alt="fabio_cceruti | Instagram" width="22px" src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-512.png" />](https://www.instagram.com/fabio_cceruti/)
 <br/>
 
-Convido a você para se conectar comigo se inscrevendo em meu [site](https://fabioceruti.tech/) e nas demais redes para acompanhar as minhas publicações sobre área de dados. 
+Convido a você para se conectar comigo se inscrevendo em meu [site](https://fabioceruti.tech/) e nas demais redes para acompanhar as minhas publicações sobre a área de dados. 
 
 <img align="left" alt="ceruti.tech | gmail" width="22px" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/147_Gmail_logo_logos-512.png" />*ceruti.tech@gmail.com*
