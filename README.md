@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/fabiocceruti/Portfolio/blob/main/Banner_Principal_Ajustado.png?raw=true" >
+  <a href="http://www.freepik.com">Designed by starline / Freepik</a>
+</p>
+
 ### Fabio Ceruti - @fabiocceruti
 -----------------------------------------------------
 
@@ -39,3 +44,14 @@ Com isso, tenho focado na área de ciência de dados e espero contribuir com a c
 Convido a você para se conectar comigo se inscrevendo em meu [site](https://fabioceruti.tech/) e nas demais redes para acompanhar as minhas publicações sobre a área de dados. 
 
 <img align="left" alt="ceruti.tech | gmail" width="22px" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/147_Gmail_logo_logos-512.png" />*ceruti.tech@gmail.com*
+
+-------------------------------------------------------------
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fabiocceruti&show_icons=true&include_all_commits=true&theme=dark" alt="Anurag's github stats" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fabiocceruti&layout=compact&theme=dark" />
+</a>
